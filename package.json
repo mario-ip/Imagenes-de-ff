@@ -1,0 +1,15 @@
+{
+  "name": "imagenes-de-ff",
+  "version": "1.0.0",
+  "description": "npm de free fire",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.8.2"
+  }
+}
